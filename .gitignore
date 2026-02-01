@@ -32,3 +32,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Vosk model files (large, download separately)
+app/src/main/assets/model-en-us/
